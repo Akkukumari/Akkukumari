@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [none](none)
 
-- 💬 Ask me about **HTMl,CSS,Javascript,React**
+- 💬 Ask me about **HTMl,CSS,Javascript,React,Chakra UI**
 
 - 📫 How to reach me **akanksha28sbg@gmail.com**
 
@@ -30,7 +30,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akkukumari&show_icons=true&locale=en&layout=compact" alt="akkukumari" /></p><br>
 
