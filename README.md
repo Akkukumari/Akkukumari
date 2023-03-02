@@ -14,7 +14,7 @@
 - 💬 Ask me about **HTMl,CSS,Javascript,React,Chakra UI**
 
 - 📫 How to reach me **akanksha28sbg@gmail.com**
-- **linkedin.com/in**
+
 
 - 📄 Know about my experiences [none](none)
 
