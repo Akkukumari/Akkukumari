@@ -20,10 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="none" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akanksha-kumari-274698265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="none" height="30" width="40" /></a>
-<a href="https://codesandbox.com/none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="none" height="30" width="40" /></a>
-<a href="https://instagram.com/none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="none" height="30" width="40" /></a>
+<a href="https://codepen.io/Akku_Kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="none" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akanksha-kumari-274698265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="none" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/akanksha28sbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="none" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="none" height="30" width="40" /></a>
 </p>
 
