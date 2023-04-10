@@ -5,18 +5,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkukumari&label=Profile%20views&color=0e75b6&style=flat" alt="akkukumari" /> </p>
 
-- 🔭 I’m currently working on [none](none)
+- 🔭 I’m currently working on (none)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [none](none)
+- 👨‍💻 All of my projects are available at (none)
 
 - 💬 Ask me about **HTMl,CSS,Javascript,React,Chakra UI,Redux,Typescript**
 
 - 📫 How to reach me **akanksha28sbg@gmail.com**
 
 
-- 📄 Know about my experiences [none](none)
+- 📄 Know about my experiences (none)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
