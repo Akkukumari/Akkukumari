@@ -16,6 +16,7 @@
 - 📫 How to reach me **akanksha28sbg@gmail.com**
 
 - 📫  Know more about me <a href="https://akkukumari.github.io/">Portfolio</a><br><br>
+= [portfolio](https://akkukumari.github.io/)
 
 
 - 📄 Know about my experiences (none)
