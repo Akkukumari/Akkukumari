@@ -14,7 +14,8 @@
 - 💬 Ask me about **HTMl,CSS,Javascript,React,Chakra UI,Redux,Typescript**
 
 - 📫 How to reach me **akanksha28sbg@gmail.com**
--  My Portfolio [akkukumari.github.io](https://akkukumari.github.io/) https://akkukumari.github.io/
+-  My Portfolio [akkukumari.github.io](https://akkukumari.github.io/)
+-  https://akkukumari.github.io/
 
 
 - 📄 Know about my experiences (none)
