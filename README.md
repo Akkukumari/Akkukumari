@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: akanksha28sbg@gmail.com
 - 📫 My Portfolio: https://akkukumari.github.io/
-- <a href="https://akkukumari.github.io/" target="blank">Portfolio</a>
+
 
 
 <h3 align="left">Connect with me:</h3>
