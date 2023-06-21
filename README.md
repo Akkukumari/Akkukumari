@@ -6,13 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkukumari&label=Profile%20views&color=0e75b6&style=flat" alt="akkukumari" /> </p>
 
 - 🌱 I’m currently learning React.js
-- 
 - 💬 Ask me about HTML, CSS, Javascript, React, Chakra UI, Redux, Typescript, Node, MongoDB
-- 
 - 👨‍💻 All of my projects are available at: https://akkukumari.github.io/
-
 - 📫 How to reach me: akanksha28sbg@gmail.com
-
 - 📫 My Portfolio: https://akkukumari.github.io/
 - <a href="https://akkukumari.github.io/" target="blank">Portfolio</a>
 
