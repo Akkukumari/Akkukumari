@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkukumari&label=Profile%20views&color=0e75b6&style=flat" alt="akkukumari" /> </p>
 
-- 🔭 I’m currently working on (none)
+- 🌱 I’m currently learning React.js
 
-- 🌱 I’m currently learning **React**
+- 👨‍💻 All of my projects are available at: https://akkukumari.github.io/
 
-- 👨‍💻 All of my projects are available at https://akkukumari.github.io/
+- 💬 Ask me about HTML, CSS, Javascript, React, Chakra UI, Redux, Typescript, Node, MongoDB
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, Chakra UI, Redux, Typescript, Node, MongoDB**
-
-- 📫 How to reach me **akanksha28sbg@gmail.com**
+- 📫 How to reach me: akanksha28sbg@gmail.com
 
 - 📫 My Portfolio: https://akkukumari.github.io/
 - <a href="https://akkukumari.github.io/" target="blank">Portfolio</a>
