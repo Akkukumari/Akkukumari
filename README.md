@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at (none)
 
-- 💬 Ask me about **HTMl,CSS,Javascript,React,Chakra UI,Redux,Typescript**
+- 💬 Ask me about **HTMl,CSS,Javascript,React,Chakra UI,Redux,Typescript,Node,MongoDB**
 
 - 📫 How to reach me **akanksha28sbg@gmail.com**
 
