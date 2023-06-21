@@ -9,8 +9,8 @@
 - 💬 Ask me about HTML, CSS, Javascript, React, Chakra UI, Redux, Typescript, Node, MongoDB
 
 - 📫 How to reach me: akanksha28sbg@gmail.com
-- 📫 My Portfolio: https://akkukumari.github.io/
-
+- My Portfolio: https://akkukumari.github.io/
+- visit to my <a href="https://akkukumari.github.io/">Portfolio</a>
 
 
 <h3 align="left">Connect with me:</h3>
