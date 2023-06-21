@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning React.js
 - 💬 Ask me about HTML, CSS, Javascript, React, Chakra UI, Redux, Typescript, Node, MongoDB
-- 👨‍💻 All of my projects are available at: https://akkukumari.github.io/
+
 - 📫 How to reach me: akanksha28sbg@gmail.com
 - 📫 My Portfolio: https://akkukumari.github.io/
 - <a href="https://akkukumari.github.io/" target="blank">Portfolio</a>
