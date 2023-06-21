@@ -19,8 +19,6 @@
 - <a href="https://akkukumari.github.io/" target="blank">Portfolio</a>
 
 
-- 📄 Know about my experiences (none)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://codepen.io/Akku_Kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="none" height="30" width="40" /></a> -->
