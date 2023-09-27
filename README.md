@@ -10,6 +10,7 @@
 
 - 📫 How to reach me: akanksha28sbg@gmail.com
 - My Portfolio: https://Akkukumari.github.io/
+- My Resume:https://drive.google.com/file/d/1QYmid4Wm8qmaHdVOcYF8YDK6PVcg_kY5/view?usp=sharing
 - Visit to my <a href="https://akkukumari.github.io/">Portfolio</a>
 
 
